@@ -1,6 +1,6 @@
 # bluetooth_scanning
 
-A new Flutter application to scan for bluetooth devices
+A Flutter application to scan for bluetooth devices
 
 ## Getting Started
 
